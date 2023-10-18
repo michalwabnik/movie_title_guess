@@ -8,6 +8,6 @@ public class Main {
         String movieTitle = "Jakis taytul aa ble a";
         String test = ble.displayConvertedMovieTitle("jae", movieTitle);
         System.out.println(test);*/
-        ble.gameLogic();
+        ble.gameLogic("aa bb");
     }
 }
