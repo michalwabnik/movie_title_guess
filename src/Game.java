@@ -16,7 +16,7 @@ public class Game {
                 displayConvertedMovieTitle = displayConvertedMovieTitle(enteredCharacters, movieTitle);
                 if (movieTitle.equalsIgnoreCase(displayConvertedMovieTitle)) {
                     System.out.println(movieTitle);
-                    System.out.println("You fucking win!!!");
+                    System.out.println("You are a winner. I'm off");
                     break;
                 } else {
                     guessCounter++;
